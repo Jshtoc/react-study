@@ -96,15 +96,15 @@ describe("expect test", () => {
 });
 ```
 
-![.to 명령어 ](./img/to.png)
+![.to 명령어 ](./img/to.png "To 명령어")
 
 ---
 
-![.notTo 명령어 ](./img/notTo.png)
+![.notTo 명령어 ](./img/notTo.png "notTo 명령어")
 
 ---
 
-![anysc](./img/async.png)
+![anysc](./img/async.png "async 명령어")
 
 비동기로직 테스트에 가장 많이 쓰이는 방식.
 
