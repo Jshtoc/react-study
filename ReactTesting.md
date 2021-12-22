@@ -104,12 +104,7 @@ describe("expect test", () => {
 
 ---
 
-<<<<<<< HEAD
 ![async](https://user-images.githubusercontent.com/93709088/147104131-361c50b7-e91a-48da-a507-52b6bfa486a6.PNG)
-=======
-![anysc](./img/async.png "async 명령어")async.PNG
->>>>>>> a8bc2a918e5f07f405e8bcb522577f0e3bb9d53c
-
 비동기로직 테스트에 가장 많이 쓰이는 방식.
 
 ## React Component Test
