@@ -96,15 +96,15 @@ describe("expect test", () => {
 });
 ```
 
-![.to 명령어 ](./img/to.png "To 명령어")
+![to](https://user-images.githubusercontent.com/93709088/147104024-5faddb85-66cf-4f4a-a88f-e43d8c7740ac.PNG)
 
 ---
 
-![.notTo 명령어 ](./img/notTo.png "notTo 명령어")
+![notTo](https://user-images.githubusercontent.com/93709088/147104097-322db6ad-d07d-408b-b2ca-1ed7a860a268.PNG)
 
 ---
 
-![anysc](./img/async.png "async 명령어")
+![async](https://user-images.githubusercontent.com/93709088/147104131-361c50b7-e91a-48da-a507-52b6bfa486a6.PNG)
 
 비동기로직 테스트에 가장 많이 쓰이는 방식.
 
