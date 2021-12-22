@@ -104,7 +104,7 @@ describe("expect test", () => {
 
 ---
 
-![anysc](./img/async.png "async 명령어")
+![anysc](./img/async.png "async 명령어")async.PNG
 
 비동기로직 테스트에 가장 많이 쓰이는 방식.
 
